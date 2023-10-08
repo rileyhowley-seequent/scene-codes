@@ -1,4 +1,4 @@
-package com.example.testapp
+package com.example.scenecodes
 
 import io.flutter.embedding.android.FlutterActivity
 
